@@ -8,9 +8,9 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
+- Nome: Raphael Henriques Oliveira Bicalho
+- Matricula:  890863
+- Proposta de projeto escolhida: meio ambiente
 - Breve descrição sobre seu projeto:
 
 
